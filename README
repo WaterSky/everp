@@ -1,0 +1,31 @@
+EVERP: EVE Enterprise Resource Planning
+
+EVERP is a web-based platform for organisation management and
+administration of EVE Online, an MMORPG game (www.eveonline.com).  It
+aims to provide a set of powerful, integrated and feature-rich modules
+to provide the management board of game corporation & communities a
+better way to handle operations, activities and assets.  
+
+The basic features of this projects include:
+
+    1) membership management: build, view, check and track the profile
+       of each members characters, alts and other informations.
+
+    2) activity management: plan, monitor and evaluate each activities
+       and locate its required resources.
+
+The development is mainly based on Django (www.djangoproject.com), a
+web framework by using Python (www.python.org).
+
+The license of this software is GPL 3 and the full text can be obtained
+by following address:
+
+http://www.gnu.org/licenses/gpl.html
+
+commercial/private license is also available.
+
+If you have any questions and enquiries, please contact Water Sky: (by
+replacing dot and at with appropriate symbol of the following address)
+
+water dot sky at eve-wukong dot org
+
